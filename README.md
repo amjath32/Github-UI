@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amjath32&label=Profile%20views&color=0e75b6&style=flat" alt="amjath32" /> </p>
-![Uploading Animated Man Computer Coding.gif…]()
-
+<img align="right" alt="code gif" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 <h3 align="left">Connect with me:</h3>
